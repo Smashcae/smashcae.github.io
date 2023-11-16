@@ -1,0 +1,32 @@
+*{
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+body{
+    background-color:rgb(131, 236, 201);
+}
+#titulo{
+    font-size: 70px;
+    text-align: center;
+    margin: auto;
+}
+#cabecera{
+    text-align: center;
+}
+button{
+    font-size: 25px;
+    padding: 3px;
+    margin-inline: 15px;
+}
+
+#all{
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+}
+section{
+    text-align: center;
+    padding: 15px;
+    margin: 50px;
+    font-size: 30px;
+}
